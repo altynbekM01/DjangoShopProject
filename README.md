@@ -1,4 +1,8 @@
 # DjangoShopProject
+This project was generated with Django Server.
+
+Development server
+Run manage.py sunserver for a dev server. Navigate to http://127.0.0.1:8000/. The application will reload after refrehing the page. 
 
 Project name – Shoes store
 This is a website for online shoes shopping. The site will have such sections as Men, Women, Brands, and types of shoes.
